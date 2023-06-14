@@ -1,15 +1,22 @@
-### Hi there 👋
+### Hi there, I'm John Mark Delima 👋
 
-<!--
-**jnale-hub/jnale-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate Software Developer with experience in Python, JavaScript, and frameworks like Django and Flask. I enjoy problem solving. I am constantly learning and exploring new technologies to enhance my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### 🌱 Currently Learning:
+- React.js and Vue.js
+- TypeScript
+- Responsive web design 
+
+#### 🔭 Technologies and Tools:
+- HTML, CSS, JavaScript
+- Git and GitHub
+- Visual Studio Code
+- Bootstrap and Tailwind CSS
+
+#### 💬 Get in Touch:
+- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/delimajohnmark)
+- Email: [delimajohnmark14@gmail.com](mailto: delimajohnmark14@gmail.com@)
+
+Feel free to explore my repositories and projects. 
+
+Happy coding! 🚀
