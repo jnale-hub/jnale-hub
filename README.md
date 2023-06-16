@@ -1,17 +1,19 @@
 ### Hi there, I'm John Mark Delima 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Developer with experience in Python, JavaScript, and frameworks like Django and Flask. I enjoy problem solving. I am constantly learning and exploring new technologies to enhance my skills.
+Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with experience in Python, JavaScript, and frameworks like Django and Flask. I enjoy problem-solving. I am constantly learning and exploring new technologies to enhance my skills.
 
-#### 🌱 Currently Learning:
-- React.js and Vue.js
+#### 🌱 Currently Doing:
+- Creating my Capstone Project on CS50Web with Python and Javascript [this repo](https://github.com/jnale-hub/Nexus-Publication-Games)
+- Learning React.js and Vue.js
 - TypeScript
-- Responsive web design 
+- Week 2 on CS50AI with Python
 
-#### 🔭 Technologies and Tools:
-- HTML, CSS, JavaScript
-- Git and GitHub
-- Visual Studio Code
-- Bootstrap and Tailwind CSS
+#### 🤖 Interests and Hobbies:
+- AI
+- Scrabble and Chess
+- Badminton and Swimming
+- Game of Thrones
+- Books and Movies
 
 #### 💬 Get in Touch:
 - LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/delimajohnmark)
