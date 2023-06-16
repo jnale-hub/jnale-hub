@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with 
 - Books and Movies
 
 #### 💬 Get in Touch:
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/delimajohnmark)
-- Email: [delimajohnmark14@gmail.com](mailto: delimajohnmark14@gmail.com@)
+- LinkedIn: [John Mark Delima](https://www.linkedin.com/in/delimajohnmark)
+- Email: [delimajohnmark14@gmail.com](mailto:delimajohnmark14@gmail.com)
 
 Feel free to explore my repositories and projects. 
 
