@@ -19,12 +19,12 @@ Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with 
 - Be a successful Software Engineer speacialized in AI and Machine Learning
 - Climb at least a dozen of mountains around the Philippines
 - Have a hydrophonics farm and beekeeping
-- Just have an Iphone LOL and a good computer (mine's trash, I fear that it will die soon and still not have a job and not get my dreams)
+- Just have a good computer (mine's trash, I fear that it will die soon and still not have a job)
 
 #### 💬 Get in Touch:
 - LinkedIn: [John Mark Delima](https://www.linkedin.com/in/delimajohnmark)
 - Email: [delimajohnmark14@gmail.com](mailto:delimajohnmark14@gmail.com)
-
+- [Personal Portfolio] (https://jnale-hub.github.io/John-Mark-Delima/)
 Feel free to explore my repositories and projects. 
 
 Happy coding! 🚀
