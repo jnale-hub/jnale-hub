@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with 
 #### 💬 Get in Touch:
 - LinkedIn: [John Mark Delima](https://www.linkedin.com/in/delimajohnmark)
 - Email: [delimajohnmark14@gmail.com](mailto:delimajohnmark14@gmail.com)
-- [Personal Portfolio] (https://jnale-hub.github.io/John-Mark-Delima/)
+- [Personal Portfolio](https://jnale-hub.github.io/John-Mark-Delima/)
 Feel free to explore my repositories and projects. 
 
 Happy coding! 🚀
