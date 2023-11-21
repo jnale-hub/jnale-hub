@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with 
 #### 🔮 Future Goals:
 - Be a successful Software Engineer speacialized in AI and Machine Learning
 - Climb at least a dozen of mountains around the Philippines
-- Have a hydrophonics farm and beekeeping
+- Have a hydroponics farm and beekeeping
 - Just have a good computer (mine's trash)
 
 #### 💬 Get in Touch:
