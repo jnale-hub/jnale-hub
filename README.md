@@ -10,13 +10,11 @@ Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with 
 
 #### 🤖 Interests and Hobbies:
 - AI
-- Scrabble & Chess
-- Badminton & Swimming
-- Game of Thrones
-- Books & Movies
+- Scrabble & Chess & Swimming
+- Game of Thrones & Books & Movies
 
 #### 🔮 Future Goals:
-- Be a successful Software Engineer speacialized in AI and Machine Learning
+- Be a successful Software Engineer speacialized in AI/Machine Learning and Web Development
 - Climb at least a dozen of mountains around the Philippines
 - Have a hydroponics farm and beekeeping
 - Just have a good computer (mine's trash)
