@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with experience in Python, JavaScript, and frameworks like Django and Flask. I enjoy problem-solving games and debugging. I am constantly learning and exploring new technologies to enhance my skills.
 
 #### 🌱 Currently Doing:
-- Week 4 on CS50AI with Python
+- Week 5 on CS50AI with Python
 - Finishing my Degree in Electronics Engineering Technology (I'm sophomore)
 - Learning Node.js and its stacks
 - Mastering my front-end skills
