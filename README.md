@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with 
 - Be a successful Software Engineer speacialized in AI/Machine Learning and Web Development
 - Climb at least a dozen of mountains around the Philippines
 - Have a hydroponics farm and beekeeping
-- Just have a good computer (mine's trash)
 
 #### 💬 Get in Touch:
 - LinkedIn: [John Mark Delima](https://www.linkedin.com/in/delimajohnmark)
