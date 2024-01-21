@@ -1,4 +1,4 @@
-## Hi there, I'm John Mark Delima 👋👋👋
+## Hi there 👋👋👋
 
 Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with experience in Python, JavaScript, and frameworks like Django and Flask. I enjoy problem-solving games and debugging. I am constantly learning and exploring new technologies to enhance my skills.
 
