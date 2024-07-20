@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with 
 #### 🌱 Currently Working on:
 - [Dance Vision](https://dancevision.com)
 - Week 5 on [CS50AI with Python](https://cs50.harvard.edu/ai/2024/)
-- Learning Node.js and its stacks
+- Mastering JS
 - Mastering my front-end skills
 - Finishing my degree!
 
