@@ -3,8 +3,6 @@
 Welcome to my GitHub profile! I'm a Software Engineer from the Philippines with experience in Python, JavaScript, and frameworks like Django and Flask. I enjoy problem-solving games and debugging. I am constantly learning and exploring new technologies to enhance my skills.
 
 #### 🌱 Currently Working on:
-- [Dance Vision](https://dancevision.com)
-- Week 5 on [CS50AI with Python](https://cs50.harvard.edu/ai/2024/)
 - Mastering JS
 - Mastering my front-end skills
 - Finishing my degree!
